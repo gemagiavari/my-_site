@@ -1,0 +1,151 @@
+.top-container {
+  background-color: #EAF6F6;
+  /* width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: 10px solid; */
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+.an-entrepreneur {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.profile-pic {
+  width: 30%;
+  margin-top: 50px;
+  border-radius: 50px;
+}
+
+.freepik {
+  margin-bottom: 1rem;
+}
+
+p {
+  color: #40514E;
+}
+
+.p-bottom-container {
+  color: #eaf6f6;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.profile {
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.data-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.weightlifting-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  box-shadow: 0 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #11999e 5%, #408c99 100%);
+  background-color: #11999e;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #3d768a;
+  margin-bottom: 50px;
+
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #11999e 100%);
+  background-color: #408c99;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.footer-link {
+  color: #11999e;
+  text-decoration: none;
+  margin: 20px;
+
+}
